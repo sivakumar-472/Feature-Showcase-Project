@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import FEATURES from "./data";
+import FEATURES from "./Data";
 import "./FeatureShowcase.css";
 
 export default function FeatureShowcase() {
